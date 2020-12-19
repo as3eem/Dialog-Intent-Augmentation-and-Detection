@@ -1,0 +1,1253 @@
+intent	dialog
+atis_flight	 show delta airlines flights from jfk to miami
+atis_airfare	What is the cost of a one day trip from Detroit to St. Pete, Missouri?
+atis_flight	 list flights from phoenix arizona to ontario california wednesday
+atis_flight	 i would like to leave thursday morning from indianapolis to toronto
+atis_flight	 show flights from minneapolis to kansas city
+atis_flight	 saturday flight on american airlines from milwaukee to phoenix
+atis_flight	 i need a flight departing from milwaukee to indianapolis leaving monday before 8 am
+atis_flight	 what flights depart from baltimore and arrive at san francisco on a friday
+atis_airline	Which airline is america?
+atis_airline	What airline is our government?
+atis_flight	 get flight from toronto to san diego stopping at dtw
+atis_flight	 list all of the daily flights arriving in denver between 8 and 9 pm
+atis_flight	 show me all the flights from charlotte to minneapolis that leave at 2 pm or later on monday
+atis_flight	 how about a flight from milwaukee to st. louis that leaves monday night
+atis_flight	 please list the flights from nashville to memphis on monday morning
+atis_abbreviation	 what does fare code h mean
+atis_ground_service	 is there ground transportation available at the salt lake city airport
+atis_abbreviation	What does m mean?
+atis_flight	 what are the flights between milwaukee and pittsburgh
+atis_flight	 find a flight from tampa to montreal by way of new york
+atis_flight	 list flights from newark to boston daily
+atis_flight	 which flights leave newark after noon next saturday and arrive in los angeles
+atis_ground_service	Does anyone want to get in Boston late night for ground transportation? How?
+atis_airline	 what airline is hp
+atis_flight	 baltimore to newark wednesday morning
+atis_flight	 show me first class flights from new york to miami round trip
+atis_flight	 what united airlines flights on june eighth go from westchester county to cincinnati
+atis_flight	 i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm
+atis_airfare	What are the flights between Washington DC and Boston?
+atis_ground_service	List ground transportation in baltimore.
+atis_ground_service	Is there ground transportation from the memphis airport into town when i arrive at 842 in the morning?
+atis_abbreviation	"What does the abbreviation ""us"" stand for?"
+atis_airline	What airlines offer flights to and from Denver?
+atis_flight	 show me the flights on american airlines which go from st. petersburg to ontario california by way of st. louis
+atis_ground_service	How are the daily flights to Phoenix from Nashville to New York from there?
+atis_airline	Is there a flight to Denver available with airline?
+atis_abbreviation	What is the meaning of fare code y?
+atis_flight	 list flights from ontario california to salt lake city utah monday
+atis_flight	 please show me first class flights from indianapolis to memphis one way leaving before 10 am
+atis_abbreviation	What do fare codes f mean?
+atis_airfare	Best airfare from Indianapolis to Memphis first class economy class.
+atis_flight	 i'd like to fly from miami to chicago on on american airlines arriving around 5 pm
+atis_airline	What is the Dlc airlines?
+atis_flight	 show me nonstop flights from st. petersburg to toronto
+atis_ground_service	Is there ground transportation from GTA to New York City?
+atis_flight	 can i get a flight on tuesday night from washington dc to oakland
+atis_flight	 pittsburgh to los angeles thursday evening
+atis_flight	 show me all flights from orlando to montreal please
+atis_flight	 give me the flights from chicago to seattle on continental that have meals early saturday morning
+atis_abbreviation	What is a d9s sensor?
+atis_flight	 on june eighth what flights go from westchester county to cincinnati
+atis_flight	 what is the earliest arriving flight from boston to washington dc
+atis_ground_service	Does TATACOMA airport offer transportation to the downtown area?
+atis_flight	 i want to book a flight from salt lake city to westchester county
+atis_airline	What airlines fly between Salt Lake City and Seattle?
+atis_flight	 find flight from memphis to cincinnati on sunday
+atis_flight	 could i have flight information on flights from salt lake city to phoenix please
+atis_flight	 list flights from pittsburgh to newark daily
+atis_flight	 which flights depart from new york and arrive in los angeles after 10 am
+atis_airfare	faqs get Saturday fares from washington to toronto, from saturdays. get saturday fares from san francisco.
+atis_flight	 give me the flights and fares for a trip to cleveland from miami on wednesday
+atis_airfare	 list first class airfare round trip from indianapolis to memphis
+atis_airline	 i would like to have the airline that flies toronto detroit and st. louis
+atis_airfare	How many seats are available from Las Vegas to Detroit?
+atis_flight	 i need a flight from memphis to tacoma that goes through los angeles
+atis_flight	 show me the flights between milwaukee and indiana
+atis_flight	 monday morning i would like to fly from columbus to indianapolis
+atis_flight	 list early morning flights from cincinnati to tampa
+atis_abbreviation	What is fare code?
+atis_flight	 please find a flight from ontario to westchester that makes a stop in chicago on may seventeenth one way with dinner
+atis_flight	 on friday night i would like a flight from newark to los angeles
+atis_airfare	 what is the lowest fare from bwi to salt lake city
+atis_ground_service	What types of ground transportation are available in Denver?
+atis_airline	 what airline flies from boston to san diego
+atis_airfare	 get the saturday fare from washington to toronto
+atis_flight	 find me all the flights from milwaukee to st. louis
+atis_abbreviation	What does fare code f of U.S. Airlines mean?
+atis_airfare	On my first visit i need a ticket from tacoma to san jose departing at 7 am. at the airport there are 3 flights. on the 6th i depart before 7 am. on the 27th it takes me five minutes less than scheduled. The ticket must be over 5 days.
+atis_flight	 i would like flights from san francisco to long beach
+atis_airfare	Show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994 - 1994. show me the best round trip fare from houston to san francisco or san francisco to houston on february twenty eighth 1994.
+atis_flight	 i want a flight from los angeles to charlotte early in the morning
+atis_airline	What are the airlines that fly out of Boston from Boston?
+atis_airfare	I need a taxi from Seattle to Cleveland next morning. I want to get a flat rate taxi from miami to cleveland. give me the fares.
+atis_flight	 list flights from pittsburgh to newark on monday morning
+atis_flight	 which flights are available on april twenty first in the morning from nashville to tacoma
+atis_flight	 show flights from kansas city to minneapolis
+atis_abbreviation	What does a fare code mean?
+atis_airline	What airlines fly from Tampa to San Francisco?
+atis_ground_service	Now show me ground transportation that i could get in boston late night.
+atis_airfare	How many airlines serviced Washington to Boston?
+atis_flight	 list all flights from kansas city to cleveland
+atis_abbreviation	What does the restriction AP58 means?
+atis_airline	What are some flights between burbank, milwaukee and st. louis, and from st. louis to burbank?
+atis_flight	 now show me all the flights from st. louis to burbank
+atis_flight	 please find a flight from detroit michigan to st. petersburg arriving before 10 pm
+atis_ground_service	I'll need to rent a car in washington DC. i can just drive around town or drive on the beach and drive to a nearby parking lot.
+atis_flight	 monday morning flights from atlanta to kansas city
+atis_flight	 list flights from ontario california to orlando
+atis_airfare	How much airfare is $29 to get from Washington to Montréal?
+atis_flight	 show me all the morning flights from philadelphia to fort worth
+atis_flight	 list flights from milwaukee to detroit
+atis_flight	 list flights from salt lake city to phoenix arizona tuesday
+atis_airline	Show me airlines that have flights between Toledo and Detroit between Toledo and St. Louis. also between St. Louis and St. Louis.
+atis_flight	 i need a flight from st. louis to charlotte
+atis_ground_service	What is the best way to get from and/or from EWR to NY?
+atis_ground_service	 what ground transportation is there in baltimore
+atis_ground_service	 what ground transportation is available at denver
+atis_abbreviation	What does a fare code mean?
+atis_airline	Which airlines fly from Miami to San Francisco?
+atis_flight	 find flight from cincinnati to san jose on monday
+atis_abbreviation	What is fare code in m.rs?
+atis_airfare	What is the cheapest fare from Charlotte to Las Vegas?
+atis_flight	 list us air flights leaving saturday from charlotte airport around 1 pm
+atis_flight	 what are the flights from cleveland to dallas
+atis_flight	 st. petersburg to detroit
+atis_airfare	How much would it cost to fly with TWA-Wisconsin from Denver to Chicago?
+atis_abbreviation	"What does ""ap 57"" mean?"
+atis_flight	 show me flights between toronto and san diego
+atis_flight	 what flights arrive at love field on june sixth
+atis_ground_service	So far in 2017 we have 226 operators of ground transportation in Las Vegas.
+atis_flight	 memphis to las vegas sunday afternoon
+atis_flight	 please list afternoon flights between st. petersburg and charlotte
+atis_airfare	 get saturday fares from washington to toronto
+atis_flight	 i need a flight from las vegas to ontario
+atis_flight	 find flight from houston to memphis on friday
+atis_airline	 which airline is us
+atis_flight	 i want to fly from san francisco to milwaukee and from milwaukee to denver
+atis_flight	 list direct flights from new york city to los angeles after 10 am
+atis_airfare	Can anyone help me find the lowest price tickets from Jacksonville to Seattle on air.
+atis_airfare	What's the fares from Miami-Cleveland for next day flights?
+atis_ground_service	Would you take a taxi to the Tacoma airport?
+atis_airline	Which airlines fly between Toronto and San Diego?
+atis_ground_service	What is the best rail access from DCA to Washington D.C.?
+atis_flight	 show me flight us 1500 on monday from charlotte to minneapolis please
+atis_ground_service	Now show me ground transportation in Houston on monday afternoon on thursday evening on thursday and then on tuesday morning, show me road transportation.
+atis_ground_service	Does tacoma airport offer transportation from the airport to the downtown area?
+atis_flight	 i would like a flight traveling one way from phoenix to san diego on april first
+atis_airfare	Which is the budget fare from Bruins to Salt Lake City?
+atis_flight	 i need information on flights from toronto to san diego
+atis_abbreviation	What is fare code h?
+atis_ground_service	What is the ground transportation in Denver?
+atis_flight	 give me the cheapest round trip flights from indianapolis to orlando around december twenty fifth
+atis_flight	 which flights are available from tacoma to san jose in the morning on april twenty second
+atis_ground_service	What is the best ground transportation in Baltimore?
+atis_flight	 find flight from san jose to houston on wednesday
+atis_abbreviation	 what does ua mean
+atis_flight	 show me all the flights from charlotte to minneapolis on tuesday morning
+atis_flight	 i need a flight from ontario to memphis
+atis_flight	 list all us air flights arriving in charlotte on saturday at 1 pm
+atis_ground_service	What's the ground transportation in the delhi city?
+atis_airfare	What is the most expensive way to get from boston to salt lake city?
+atis_ground_service	 what ground transportation is available between dca and downtown washington
+atis_airfare	how much flights do you like and what is the cost to fly from detroit to St. Petersburg?
+atis_flight	 which flights are available from san jose to nashville leaving in the morning on april twenty three
+atis_flight	 baltimore to kansas city economy
+atis_airline	What are the best airlines to fly from Denver to westchester counties?
+atis_flight	 i want to fly from milwaukee to los angeles
+atis_abbreviation	What is fare code?
+atis_airfare	 what is the airfare for a round trip first class ticket from detroit to st. petersburg
+atis_ground_service	What is taxi service at Toronto Airport?
+atis_flight	 what are the flights from memphis to las vegas
+atis_flight	 show me the first class and coach flights from jfk to miami
+atis_flight	 show me flights from phoenix to fort worth
+atis_flight	 what is the shortest flight from milwaukee to long beach
+atis_flight	 list a flight from toronto to san diego
+atis_airfare	cheapest roundtrip fare from or indianapolis to orlando on December twenty fifth.
+atis_flight	 i would like flights leaving from milwaukee to orlando
+atis_abbreviation	What does AK 57 really mean?
+atis_airline	List airlines flying from seattle to salt lake city. I have 768 flights per month!
+atis_flight	 please list all flights from nashville to memphis on monday morning
+atis_airfare	 give me the fares for round trip flights from cleveland to miami next wednesday
+atis_flight	 show me all lufthansa flights from seattle to boston with stopovers in minneapolis
+atis_flight	 how many northwest flights leave washington dc
+atis_flight	 kansas city to cleveland flight arrive wednesday before 5 pm
+atis_flight	 list flights from las vegas to san diego
+atis_flight	 list evening flights from tampa to cincinnati
+atis_abbreviation	What does fare code mean?
+atis_flight	 which flights travel from kansas city to los angeles on april ninth
+atis_flight	 list flights from memphis to miami wednesday evening
+atis_airline	 which airlines fly from baltimore to san francisco
+atis_abbreviation	 what does m mean
+atis_flight	 give me the flights from seattle to chicago that have meals on continental saturday morning
+atis_flight	 i need a flight from new york to los angeles on saturday evening on us air
+atis_flight	 show me flights from milwaukee to orlando one way
+atis_ground_service	What's the ground transportation in westchester county?
+atis_abbreviation	 what is a d9s
+atis_ground_service	 what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte
+atis_flight	 i need a flight from milwaukee to seattle
+atis_flight	 atlanta to st. louis tuesday before 230 pm flights
+atis_flight	 i would like flights from san diego to las vegas
+atis_ground_service	What are the best ground transportation services in Denver?
+atis_ground_service	Ground transportation for las vegas.
+atis_airfare	How do I get fares from New York to Toronto?
+atis_airfare	how can I book a bus from nashville to seattle (less than 24 hours)?
+atis_airline	What airlines fly between New York and Columbia on average?
+atis_flight	 i would like flights leaving san francisco to san diego
+atis_ground_service	 ground transportation for las vegas
+atis_airline	 what airlines fly from baltimore to san francisco
+atis_ground_service	What is the best ground transportation to and from Phoenix Airport?
+atis_ground_service	 what ground transportation is available between phoenix airport and downtown phoenix
+atis_ground_service	What are the top 5 cheap flights to Salt Lake City to the Salt Lake City airport?
+atis_flight	 i'd like to book a flight from cincinnati to new york city on united airlines for next saturday
+atis_flight	 list all flights arriving in denver between 8 and 9 pm
+atis_ground_service	 i need to rent a car at tampa
+atis_abbreviation	What does UAW signifie?
+atis_airfare	 how much does it cost to fly from columbus to st. louis round trip on twa
+atis_flight	 can you find me a flight from salt lake city to new york city next saturday before arriving before 6 pm
+atis_flight	 show flights wednesday evening from st. louis to burbank
+atis_airline	What airline is as a city and for whom?
+atis_flight	 what is the shortest flight from milwaukee to st. petersburg
+atis_flight	 list the flights from denver to westchester county on june seventh
+atis_ground_service	How many airlines fly from La Liga to New York City as ground transportation depends on the number of flights?
+atis_flight	 please list flights from san francisco to milwaukee
+atis_flight	 which round trip flights leave chicago next tuesday around 6 pm and arrive in detroit
+atis_airfare	Show me the cost of a ticket to the airport from Detroit to Las Vegas?
+atis_flight	 list flights from seattle to salt lake city on delta l10
+atis_flight	 i want to fly from washington dc to phoenix arizona
+atis_airfare	I need a ticket from nashville tennessee to seattle. I need a ticket from nashville tennessee to seattle.
+atis_airfare	Show me the cheapest round trip fare from san francisco to Houston on February 20th 1994?
+atis_airline	Which airline kwa is?
+atis_airline	Which airline to choose?
+atis_flight	 find nonstop flights from salt lake city to new york on saturday april ninth
+atis_flight	 list flights between phoenix and las vegas
+atis_flight	 show me the flights from detroit to las vegas
+atis_flight	 list us air flights leaving saturday from charlotte airport at 1 pm
+atis_ground_service	What is the transportation option from Elkhart to New York City by the United States?
+atis_flight	 list flights between pittsburgh and milwaukee
+atis_flight	 i would like a flight from detroit to st. louis
+atis_flight	 charlotte to baltimore on tuesday
+atis_flight	 find flight from detroit to san diego on tuesday
+atis_flight	 get flights from milwaukee to dtw
+atis_flight	 miami to cleveland sunday afternoon
+atis_abbreviation	What does fare code mean in india?
+atis_airfare	What is the cheapest fare from Washington D.C. to Vancouver?
+atis_airline	What airline are hp and it?
+atis_flight	 show delta airlines from boston to salt lake
+atis_flight	 tampa to charlotte sunday morning
+atis_airfare	Get saturday fares from washington to toronto. get prices below.
+atis_airfare	Show me the cheapest round trip fares from houston to boston. all of the above are shown on my ticket.
+atis_flight	 i would like a morning flight from charlotte to newark
+atis_flight	 i need a flight from washington dc to san diego
+atis_flight	 list flights from las vegas to denver
+atis_flight	 i would like to return from chicago around 7 pm to kansas city
+atis_flight	 i need flight information for a flight departing from cleveland to milwaukee wednesday after 6 pm
+atis_flight	 show me round trip flights from burbank to tacoma
+atis_flight	 show me the cheapest one way flights from montreal to orlando
+atis_flight	 i'd like a flight to san diego from washington dc
+atis_flight	 what are the american flights from newark to nashville
+atis_flight	 show me all the flights from burbank to milwaukee
+atis_flight	 list flights from indianapolis to memphis on monday
+atis_flight	 i need a sunday flight from tampa to charlotte
+atis_airline	I want an airline that flies toronto Detroit and St. Louis. I want both, i would like to travel to Chicago.
+atis_airfare	 how much is coach flight from pittsburgh to atlanta
+atis_abbreviation	 what does hp stand for
+atis_abbreviation	What does ap 20 mean?
+atis_airline	Which airlines fly from Las Vegas to New York City?
+atis_airfare	How much do you think the LIVE round trip coach fare is for one trip from Las Vegas to Detroit?
+atis_airfare	What is the best first class round trip airfare from India indianapolis to Mexico?
+atis_flight	 list the flights from cleveland to memphis
+atis_airfare	Where is the cheapest one way fare from my hometown indianapolis to my hometown of Orlando?
+atis_ground_service	Show me ground transportation that I could get in boston late night.
+atis_flight	 please find a flight from san diego to toronto on alaska airlines
+atis_flight	 which flights go from milwaukee to tampa and stop in nashville
+atis_flight	 show me weekday flights from milwaukee to orlando one way
+atis_flight	 i need information on flights between st. petersburg and charlotte
+atis_flight	 list all flights from nashville to cleveland on sunday
+atis_airfare	What is the cheapest flight fare from washington DC to boston?
+atis_flight	 are there any flights on june tenth from burbank to tacoma
+atis_abbreviation	What does the restriction of AAP58 mean?
+atis_ground_service	Is there any ground transportation facility in St. Louis?
+atis_flight	 list flights from st. paul to kansas city friday in the evening with a meal included
+atis_airfare	Can anyone tell me the cheapest one way fare from San Francisco to Houston for a flight from San Francisco to Houston on february twenty eight 1994?
+atis_flight	 i need a flight from indianapolis to seattle arriving in seattle at 1205 pm
+atis_flight	 list flights from houston to milwaukee friday pm
+atis_abbreviation	What is a tpa and what is TPA?
+atis_flight	 st. louis to st. paul thursday after 10 am
+atis_airline	What flights off from love field between 6 and 10 am on June 6th?
+atis_airfare	What's the estimated cost of airfare for a coach from detroit to St. Petersburg?
+atis_airfare	How much one way fare from Chicago to Orlando it is on Dec. 23, 2016?
+atis_flight	 show me the cheapest round trip between st. petersburg and detroit that arrives before 7 pm
+atis_abbreviation	What are Fare codes?
+atis_flight	 and a flight from st. louis to burbank that leaves tuesday afternoon
+atis_flight	 i need to take a united airlines flight on june eighth from westchester county to cincinnati after 3 pm
+atis_flight	 list flights from philadelphia to atlanta friday am
+atis_ground_service	I like ground transportation in Phoenix. Show me is good, really!
+atis_ground_service	Is st louis airport ground transportation available?
+atis_ground_service	 what ground transportation is available from la guardia airport into new york city
+atis_airfare	i'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning. if i'd like a one way ticket, what time would I get it?
+atis_flight	 what is the latest breakfast flight from dallas to tampa
+atis_airfare	How much airline travel is there between pittsburgh and Cleveland under $200?
+atis_ground_service	What are the air transportation options at Phoenix Airport?
+atis_flight	 show me flights from columbus to chicago first class that leave before 10 am
+atis_airfare	 i need the fares on flights from washington to toronto on a saturday
+atis_airline	Which airline is as a passenger-as per passenger requirements?
+atis_flight	 list a flight on delta airlines from toronto to san diego
+atis_flight	 please find a flight from newark to orlando
+atis_airfare	I'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning. I'd like a one way ticket.
+atis_airline	What airlines fly into Denver?
+atis_airfare	 list fares from washington dc to toronto that should be good
+atis_flight	 which flights travel from cleveland to indianapolis on april fifth
+atis_ground_service	What are the best ground transportation options to go to pittsburgh airport?
+atis_airfare	 get fares from washington to boston
+atis_ground_service	What is the ground transportation in Westchester county?
+atis_flight	 how many flights does northwest have leaving dulles
+atis_flight	 milwaukee to phoenix on saturday
+atis_airline	Is dl a good airline or not?
+atis_flight	 list flights from memphis to miami on wednesday
+atis_abbreviation	 what the abbreviation us stand for
+atis_airline	What airline is HP?
+atis_airline	What is the best airline to fly from San Diego to Boston from their base?
+atis_airfare	 list airfares for first class round trip from detroit to st. petersburg
+atis_flight	 i need a flight leaving kansas city to chicago leaving next wednesday and returning the following day
+atis_ground_service	 is there ground transportation available at the phoenix airport
+atis_airline	What airlines can you name, on what date is yx?
+atis_flight	 show flights from st. petersburg to charlotte
+atis_flight	 i need information on flights from indianapolis to seattle
+atis_flight	 show me one way flights from milwaukee to orlando on wednesday
+atis_airfare	How should I buy tickets from Baltimore to Seattle?
+atis_ground_service	What is the cost of airport shuttle service between Milwaukee Airport and downtown Milwaukee?
+atis_flight	 i need a flight on friday afternoon in june from new york to cleveland
+atis_abbreviation	 what is 73s
+atis_airline	 what airline is aa
+atis_flight	 show flights from orlando to kansas city
+atis_flight	 i'd like to travel from kansas city to chicago next wednesday
+atis_flight	 las vegas to baltimore economy
+atis_flight	 what are the flights on thursday leaving from st. paul minnesota to st. louis
+atis_flight	 which flights travel from las vegas to los angeles california and arrive on april ninth between 4 and 5 pm
+atis_airline	What airlines fly into Denver?
+atis_abbreviation	 what does fare code bn mean
+atis_flight	 what's the cheapest flight from columbus to st. louis round trip on twa
+atis_flight	 show me the connecting flights between boston and denver and the types of aircraft used
+atis_airfare	How much cheaper is a 1 day roundtrip from New York to Orlando.
+atis_airline	What airline is based in Asia?
+atis_flight	 i want a flight from toronto to san diego
+atis_airline	 is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank
+atis_flight	 list delta flights from seattle to salt lake city with aircraft type
+atis_abbreviation	What does fare code mean?
+atis_airline	 which airlines fly between toronto and san diego
+atis_flight	 show me all round trip flights from new york to miami nonstop
+atis_flight	 list flights from chicago to san diego
+atis_flight	 list flights from denver to phoenix
+atis_flight	 which flights arrive in burbank from kansas city on saturdays in the afternoon
+atis_airline	What is Hp 777?
+atis_flight	 list flights from orlando to tacoma on saturday of fare basis code of q
+atis_airline	What are airlines that fly from Las Vegas to New York?
+atis_airfare	 show me the cheapest round trip fares from san francisco to houston
+atis_airfare	How much does it cost to fly from columbus to st louis?
+atis_airfare	What is the cheapest flight from Boston to Salt Lake?
+atis_flight	 i need a friday flight from newark to tampa
+atis_airfare	What is the cheapest way to fly between NYC and Boston, DC?
+atis_flight	 which flights depart from a atlanta and arrive in toronto
+atis_flight	 i want to fly from indianapolis to seattle round trip with the cheapest fare
+atis_abbreviation	What does the UAA actually mean?
+atis_airline	What airline is Aaa?
+atis_airfare	How much cheaper is the fare from indianapolis to Orlando on the twenty seventh of December 2017?
+atis_airfare	 how much does it cost to fly on twa from columbus to milwaukee
+atis_ground_service	What type of ground transportation is there in Las Vegas airport?
+atis_flight	 i need a flight from milwaukee to washington dc on monday night
+atis_airline	What airline is samsung's carrier?
+atis_ground_service	Ground transportation for LA, vegas, arizona, mexico.
+atis_flight	 i need a flight from cleveland to dallas that leaves before noon see if too much information
+atis_flight	 list a flight on american airlines from toronto to san diego
+atis_flight	 find a flight between st. petersburg and charlotte the flight should leave in the afternoon and arrive as soon after 5 pm as possible it should be a nonstop flight
+atis_flight	 i would like to fly from columbus to phoenix through cincinnati in the afternoon
+atis_flight	 give me a flight from charlotte to baltimore on tuesday morning
+atis_flight	 how many northwest flights leave st. paul
+atis_airfare	 show me the cost of a first class ticket from detroit to las vegas and back
+atis_flight	 phoenix to milwaukee on sunday
+atis_flight	 what flights leave cleveland going to indianapolis on april twenty first in the morning
+atis_airfare	How much is the flight from Pittsburgh to Atlanta?
+atis_flight	 what's the cheapest flight from san francisco to denver
+atis_flight	 how about flights from milwaukee to washington dc on tuesday mornings
+atis_flight	 list flights from dallas to houston arriving sunday afternoon
+atis_flight	 i would like information on flights leaving from washington dc to denver
+atis_airline	What is the official Airline of the US?
+atis_flight	 does this flight serve dinner
+atis_flight	 show me a return flight from miami to jfk please
+atis_airfare	get saturday fares from washington to toronto. get a weekend fares from youtube.
+atis_flight	 what are the flights from st. louis to charlotte north carolina leaving on friday
+atis_flight	 what are the flights from la guardia to san jose on united
+atis_airfare	What is the cheapest one way fare from San Francisco to Houston?
+atis_airfare	I have all the airfares from washington toronto available that day, so I'm looking for this fares. the flight details will be revealed on saturday, so I don't miss out on a week of flights, just in case.
+atis_airline	 which airline is us
+atis_flight	 from milwaukee to orlando one way after 5 pm wednesday
+atis_airfare	How do I get the cheapest ticket between LA to DFW?
+atis_flight	 please find a flight from kansas city to newark
+atis_flight	 please give me the flights from kansas city to chicago on june sixteenth
+atis_flight	 find me a flight from cincinnati to any airport in the new york city area
+atis_ground_service	What is the best ground transportation system from Austin to Dallas?
+atis_flight	 what are the flights on mondays that travel from charlotte north carolina to phoenix arizona
+atis_ground_service	What are good public transportation options between Phoenix airport and downtown Phoenix?
+atis_airline	Whose airline is US?
+atis_abbreviation	What is Fare code FEE?
+atis_abbreviation	What is the food code sb?
+atis_flight	 please find a flight round trip from los angeles to tacoma washington with a stopover in san francisco not exceeding the price of 300 dollars for june tenth 1993
+atis_airline	Which airline is HP?
+atis_airline	What airline is yx?
+atis_flight	 houston to dallas before midnight
+atis_flight	 please list only the flights from cleveland to dallas that leave before noon
+atis_airfare	 get saturday fares from washington to boston
+atis_flight	 list all flights on all types of aircraft arriving in denver between 8 and 9 pm
+atis_flight	 i need a flight on united airlines from la guardia to san jose
+atis_flight	 i would like to find a flight from charlotte to las vegas that makes a stop in st. louis
+atis_ground_service	I’m going to find me a good place to meet for ground transportation from houston to carolina. will you see me today?
+atis_flight	 list the alaska airline flights from burbank to anywhere
+atis_flight	 i'd like a flight from cincinnati to newark airport that arrives on saturday before 6 pm
+atis_flight	 which flights depart from toronto and arrive in washington dc
+atis_flight	 which round trip flights leave chicago next tuesday and arrive in detroit around 6 pm
+atis_flight	 flights newark to los angeles wednesday morning
+atis_airline	Which airline is a U.S. Airline?
+atis_ground_service	 please list the ground transportation from lga into new york city
+atis_flight	 flights from washington to seattle
+atis_flight	 list flights from miami to indianapolis on sunday
+atis_abbreviation	What is a CVG? What is the definition of an CVG?
+atis_airline	What airline routes operate between detroit and westchester counties?
+atis_airfare	Get saturday fares from washington to boston. Get saturday flights for long haul.
+atis_flight	 show me a one way flight from milwaukee to orlando leaving wednesday afternoon after 6 pm
+atis_abbreviation	What is CVG?
+atis_airfare	How much does it cost to fly from copenhagen to St Louis per round trip?
+atis_flight	 what are the flights from ontario to memphis
+atis_flight	 what flights are there between washington dc and columbus ohio
+atis_flight	 chicago to las vegas saturday morning
+atis_airfare	How much does it cost to fly from columbus to milwaukee?
+atis_flight	 give me the flights from phoenix to milwaukee on wednesday on american airlines
+atis_airfare	 what are the fares for flights between boston and washington dc
+atis_abbreviation	 what does ap 57 mean
+atis_flight	 what are the nonstop flights between san jose and houston texas
+atis_flight	 i need a flight from salt lake city to phoenix departing wednesday after 5 pm
+atis_abbreviation	What is 73s?
+atis_abbreviation	 what does fare code bh mean
+atis_flight	 list the flights on canadian airlines international
+atis_abbreviation	What is fare code and how it works?
+atis_abbreviation	What does Fare code Qo mean?
+atis_abbreviation	Which smartphone is the D9S?
+atis_flight	 show me the flights on american airlines which fly from st. petersburg to ontario canada with a stopover in st. louis
+atis_airline	What airlines are dlc?
+atis_flight	 what are the flights from tacoma to miami that leave after 6 pm tomorrow
+atis_abbreviation	What does not SAS mean?
+atis_airfare	On an one way ticket from milwaukee to orlando either wednesday evening or thursday morning. what's in it for you?
+atis_flight	 list the flights from cincinnati to denver on june sixth
+atis_flight	 show me the flights between pittsburgh and washington dc
+atis_airfare	 list fares from washington dc to montreal
+atis_airfare	cheapest fare from Cleveland to Orlando on the twenty-seventh of december.
+atis_airfare	What is the right flight from pittsburgh to cleveland under 200 dollars?
+atis_ground_service	Ground transportation in Las Vegas.
+atis_ground_service	 and now show me ground transportation that i could get in boston late night
+atis_flight	 show me round trip flights from orlando to montreal
+atis_flight	 list all flights leaving denver between 8 pm and 9 pm
+atis_ground_service	What is the best ground transportation available from dallas fort worth airport to downtown dallas?
+atis_flight	 list flights from oakland to salt lake city
+atis_flight	 i'd like to fly from san diego to houston on june tenth
+atis_airfare	get the saturday fare from washington to Toronto to go back up to north side. get the Saturday fare from newark to new york. get the Saturday fare from newark to new york. get the Saturday fare from newark to go up to nyc.
+atis_airfare	 cheapest fare from indianapolis to orlando on the twenty seventh of december
+atis_flight	 what is the earliest flight between baltimore and oakland that serves breakfast
+atis_flight	 show me the cheapest economy flights from miami to new york
+atis_abbreviation	What is a D9 or D9s?
+atis_airfare	What are the best flights from Washington DC to Toronto?
+atis_flight	 i need a flight from san francisco to milwaukee on monday morning
+atis_flight	 which flights travel from nashville to tacoma
+atis_airfare	On april 2nd i need a ticket from TATAWAY to SANO COSTOS departing before 7 am. 1 month later. On an August date the ticket will be $440. 1st i need a ticket from Seattle to San jose departing before 7 am. 1st i can post online.1st i must rebook the ticket and pay $65 for it. 1st i need a ticket to San jose.1 on September 2nd i
+atis_airline	 which airline is as
+atis_flight	 show me all delta airlines flights from montreal to orlando
+atis_flight	 now show me the cheapest one way flight from houston to boston
+atis_airline	 list airlines flying from seattle to salt lake city
+atis_flight	 i would like an early morning flight today from los angeles to charlotte
+atis_flight	 what are the flights from las vegas to ontario
+atis_abbreviation	What is MCI?
+atis_abbreviation	What does fare codef mean?
+atis_flight	 i need flights departing from oakland and arriving salt lake city
+atis_flight	 i would like a flight from san francisco to st. petersburg
+atis_flight	 list the alaska airline flights from burbank
+atis_airline	I would like to have the airline that flies toronto detroit and st. louis.
+atis_airline	Which is the airline for us?
+atis_flight	 find me all the round trip flights from burbank to milwaukee stopping in st. louis
+atis_flight	 what flights go from denver to st. louis on tuesday morning
+atis_abbreviation	What are the limitation on ap 57?
+atis_airline	Which is the cheapest airline we may use if we want to fly in the US?
+atis_flight	 tell me the flights that leave philadelphia and go to dallas
+atis_flight	 are there any flights from boston to orlando connecting in new york
+atis_flight	 find flights arriving new york city next saturday
+atis_flight	 list flights from phoenix to houston
+atis_flight	 list saturday flights from washington to boston
+atis_flight	 show delta airlines flights from boston to salt lake city
+atis_flight	 what are the flights from phoenix arizona to st. paul minnesota on tuesday
+atis_abbreviation	What is the d9s?
+atis_flight	 round trip flights from orlando to montreal please
+atis_flight	 list flights from la to orlando
+atis_flight	 i need a flight on american airlines from miami to chicago that arrives around 5 pm
+atis_flight	 show me flights from montreal to orlando and long beach
+atis_ground_service	What is best way to rent a car in Wisconsin?
+atis_airfare	How much is a coach flight from Pittsburgh to Atlanta?
+atis_abbreviation	What does the HAP mean?
+atis_flight	 please list flights from philadelphia to san francisco
+atis_flight	 i would like flights from minneapolis to san diego
+atis_airline	What is airline wno?
+atis_airline	show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto.
+atis_abbreviation	What does fare code mean?
+atis_flight	 what are the flights between dallas and phoenix
+atis_ground_service	What is the best website for Car Rental in Milwaukee?
+atis_flight	 show me the flights between los angeles and dallas
+atis_airfare	What would be the cost of a one way flight from Dallas to Las Vegas, NV in a first class ticket?
+atis_ground_service	Please show ground transportation to milwaukee, milwaukee thru state. please show to milwaukee any ground transportation to milwaukee from milwaukee, milwaukee or stow. Please explain.
+atis_flight	 are there any flights from boston to orlando connecting in columbus
+atis_flight	 please list flights from orlando to philadelphia
+atis_flight	 cleveland to nashville flight friday morning
+atis_airline	What is Airline?
+atis_abbreviation	What is PHL?
+atis_airline	 what airlines fly into denver
+atis_flight	 on sunday evening i would like to leave montreal quebec on a flight to san diego california
+atis_flight	 which flights on us air go from orlando to cleveland
+atis_flight	 a flight from baltimore to san francisco arriving between 5 and 8 pm
+atis_airline	 what airline is as
+atis_airfare	I need the fares on flight from washington to toronto on Monday i hope that the above are the best.
+atis_airfare	 show me the cheapest round trip fares from houston to boston
+atis_flight	 list the flights from westchester county to cincinnati on june eighth
+atis_flight	 can you list all of the delta flights from salt lake city to new york next saturday arriving before 6 pm
+atis_ground_service	What is the difference between a vehicle delivering to you through air or sea in Denver?
+atis_ground_service	 i need to rent a car in milwaukee
+atis_abbreviation	What is d9s?
+atis_ground_service	 what type of ground transportation is there at the las vegas airport
+atis_ground_service	What is the best way to hire a car in Tampa?
+atis_airline	What airlines are departing from Boston?
+atis_ground_service	 what ground transportation is available from dallas fort worth airport to downtown dallas
+atis_flight	 list flights from boston to pittsburgh daily
+atis_airfare	 on april first i need a ticket from tacoma to san jose departing before 7 am
+atis_flight	 flights from atlanta to seattle
+atis_airline	What airlines fly to Denver and what are the best?
+atis_flight	 list flights from houston to san jose
+atis_airline	 show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto
+atis_abbreviation	What does 5years of AOP mean?
+atis_flight	 what flights leave from cleveland and go to dallas
+atis_flight	 list flights from charlotte on saturday afternoon
+atis_airline	What airlines fly from San Francisco to Newport?
+atis_abbreviation	What is fare code?
+atis_ground_service	 tell me about the ground transportation from nashville airport
+atis_airline	Which airline is us?
+atis_flight	 i would like a flight from orlando to salt lake city for april first on delta airlines
+atis_flight	 i'd like a red eye flight from new york to los angeles on saturday evening on us air
+atis_airfare	Which is the cheapest flight fare from Charlotte to Las Vegas?
+atis_airline	What airlines fly from Boston to San Diego?
+atis_ground_service	What type of ground transportation is there at the las vegas airport?
+atis_abbreviation	What is the fare codef in the ACT?
+atis_flight	 show me flights between detroit and st. louis on delta northwest us air and united airlines
+atis_flight	 i need a nonstop flight from toronto to st. louis
+atis_flight	 i need a morning flight from burbank to milwaukee on next monday
+atis_flight	 i need a flight from memphis to seattle
+atis_airline	 which airline is kw
+atis_airfare	 what is the first class round trip airfare from india indianapolis to memphis
+atis_airfare	 what is the most expensive one way fare between detroit and westchester county
+atis_airline	Which airline is US?
+atis_flight	 list flights from washington dc to montreal
+atis_flight	 list flights from washington dc to philadelphia saturday pm
+atis_abbreviation	 what does fare code f mean
+atis_flight	 i need an early flight from milwaukee to denver
+atis_airline	 what airline is hp
+atis_flight	 show me the flights between oakland and salt lake city
+atis_flight	 list saturday flights from boston to washington
+atis_flight	 st. paul to kansas city friday night
+atis_flight	 like to book a flight from burbank to milwaukee
+atis_flight	 show me the delta flights which serve a snack to coach passengers
+atis_flight	 list the flights from cincinnati to westchester county on june sixth
+atis_flight	 list american airlines flights from milwaukee to san jose wednesday
+atis_airline	What is aac or what airline is It?
+atis_flight	 newark to tampa on friday
+atis_airline	What airline is YX?
+atis_flight	 what is the latest flight from baltimore to oakland that serves dinner
+atis_flight	 what's the cheapest flight from san francisco to milwaukee
+atis_airfare	get Saturday fares from detroit to boston. get saturday fares from detroit to boston. get saturday fares from washington to boston.
+atis_flight	 list all flights arriving in denver between 8 and 9 pm
+atis_abbreviation	What do you mean by ap 57 mean in Nepal?
+atis_abbreviation	 what does not sa mean
+atis_flight	 show me nonstop flights from kansas city to phoenix
+atis_flight	 now show me one way flights from houston to boston
+atis_flight	 list flights from toronto to washington dc saturday am
+atis_airfare	What is the cheapest way to travel from Las Vegas to Detroit on a coach?
+atis_flight	 does us air fly from cincinnati to denver on june sixth
+atis_flight	 show me the flights from minneapolis to indiana
+atis_flight	 on wednesday april sixth i would like to fly from long beach to columbus after 3 pm
+atis_flight	 give me the meal flights departing early saturday morning from chicago to seattle nonstop
+atis_abbreviation	 what does fare code bh mean
+atis_flight	 get flights from detroit to toronto
+atis_flight	 show me round trips between montreal and orlando
+atis_abbreviation	 what does fare code bh mean
+atis_airline	What is the best airline to fly from Salt Lake City to Seattle?
+atis_ground_service	 please show ground transportation to milwaukee
+atis_flight	 list flights from la guardia to burbank
+atis_airline	is there one airline that flies from Burbank to milwaukee milwaukee to st. louis and from st. louis to burbank?
+atis_airline	 what airline is yx
+atis_ground_service	What is the best amount of ground transportation to get from Atlanta to Denver airport?
+atis_flight	 now show me all the round trips from new york to miami
+atis_ground_service	 is there taxi service at the ontario airport
+atis_airfare	What's the least expensive airport fare from Toronto (UK) to Washington DC?
+atis_flight	 show flights from kansas city to orlando
+atis_flight	 show me all of the daily flights arriving in denver between 8 pm and 9 pm
+atis_flight	 is there an american airlines flight from houston to newark on june tenth after 3 pm
+atis_flight	 list all flights from cleveland to kansas city on monday
+atis_airfare	Which airlines offer round trip airfare in san diego?
+atis_airfare	How good are the fares from Washington DC to Montréal?
+atis_flight	 i'd like to book two flights to westchester county
+atis_flight	 show me round trip flights from chicago to detroit leaving next tuesday and returning the day after
+atis_flight	 please find a flight that goes from kansas city to newark to orlando back to kansas city
+atis_flight	 i need a daily flight from st. louis to milwaukee
+atis_airfare	Where do I order a first class ticket from Detroit to St. Petersburg?
+atis_airline	What airline is as a service?
+atis_flight	 i need information on flights from washington to boston that leave on a saturday
+atis_airfare	HELP ME SHOW ME THE LOWEST round trip fare from San Francisco to Houston on february twenty eight 1994.
+atis_flight	 show me all flights from san jose to phoenix
+atis_flight	 list flights from washington dc to montreal
+atis_flight	 what are the flights from boston to orlando that stop in new york
+atis_flight	 i would like a flight from cincinnati to burbank on american
+atis_ground_service	Is there plane ticketing or bus service available to take you to the airport in denver?
+atis_ground_service	 ground transportation in las vegas
+atis_flight	 cleveland to kansas city arrive monday before 3 pm
+atis_flight	 please find a flight from las vegas to michigan
+atis_airfare	Which is the best flight from Charlotte to Las Vegas?
+atis_ground_service	Is there any ground transportation available at the Indianapolis airport?
+atis_flight	 list flights from miami to indianapolis sunday
+atis_ground_service	Show me ground transportation in Houston on monday evening. now show me ground transportation in Tampa on monday afternoon.
+atis_airline	Which airline flies from Boston to San Diego?
+atis_airfare	What are the fares for flights between boston and washington DC?
+atis_flight	 show flights tomorrow evening from milwaukee to st. louis
+atis_flight	 show me the direct flights from charlotte to minneapolis on tuesday morning
+atis_flight	 show me the flights from indianapolis to memphis
+atis_flight	 what's the cheapest flight from san francisco to detroit today
+atis_airline	Which airline is the HPC?
+atis_abbreviation	Is post-20 an apt term?
+atis_flight	 which flights are available from orlando to cleveland that arrive around 10 pm
+atis_flight	 i need a flight from oakland to salt lake city on wednesday departing after 6 pm
+atis_flight	 what is the earliest daily flight between oakland and salt lake city
+atis_flight	 i want a flight from montreal to washington dc
+atis_ground_service	Show me ground transportation in Fort Worth.
+atis_ground_service	 now show me ground transportation in houston on monday afternoon
+atis_flight	 i'd like to go from long beach to st. louis and i'd like to stop in dallas i'd also like to have lunch during my flight
+atis_flight	 i'd like flights from new york to miami
+atis_flight	 please find the flights from columbus to houston with a layover in nashville tomorrow
+atis_airline	What airline is DLDL (Djl)?
+atis_flight	 show me the flights from orlando to houston
+atis_flight	 i would like flights from miami to new york
+atis_flight	 los angeles to minneapolis thursday afternoon
+atis_airfare	Where can I find flights between DC to Salt Lake City?
+atis_ground_service	 is there ground transportation available at the denver airport
+atis_flight	 please list flights from milwaukee to philadelphia
+atis_flight	 i would like to see flights from cincinnati to salt lake city
+atis_airline	What airline is HP?
+atis_airfare	 show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994
+atis_flight	 i want a flight from nashville to seattle that arrives no later than 3 pm
+atis_ground_service	Can you give a taxi at Ontario airport to a local?
+atis_airfare	Will you give me the fares from Orlando to Cleveland next Sunday?
+atis_ground_service	What are the best ways to travel between Phoenix airport and Downtown Phoenix?
+atis_airline	 what airline is hp
+atis_airline	What airlines fly to and from Detroit?
+atis_ground_service	What is the best airport to fly to at Salt Lake City, CA?
+atis_flight	 i'd like to travel from burbank to milwaukee
+atis_flight	 i need a flight from kansas city to minneapolis
+atis_flight	 first class flights pittsburgh to newark monday morning
+atis_airline	List airline tickets from Seattle to Salt Lake City.
+atis_flight	 give me the round trip flights from cleveland to miami next wednesday
+atis_flight	 on thursday morning i would like a nonstop flight from indianapolis to toronto
+atis_flight	 show me the flights from houston to orlando
+atis_airfare	I need to buy flights from Baltimore to Toronto on the saturday. I need a good fares on the train from Paris to Miami. I travel from Toronto to Washington since I have two or three saturdays. I need to buy airline tickets for these flights.
+atis_abbreviation	What is meal code sb?
+atis_abbreviation	What is TPA?
+atis_airfare	How much a day does it take to drive from the hub of the U.S. to Montréal?
+atis_flight	 what are the flights between memphis and cincinnati on wednesday
+atis_ground_service	 please list ground transportation from ewr into new york city
+atis_flight	 list delta flights from seattle to salt lake city
+atis_airline	What airlines serve Denver and offer better services?
+atis_airfare	navara and toronto to detroit delta northwest united & delta northwest us air travel todo and back. show me round trip fares.
+atis_flight	 i need a flight from denver to salt lake city on monday
+atis_flight	 what are the flights from tacoma to san jose
+atis_flight	 show me round trip flights from burbank to seattle
+atis_ground_service	 what types of ground transportation are available in denver
+atis_flight	 what flights go from long beach to st. louis
+atis_flight	 show me the flights between houston and orlando
+atis_flight	 show me all the flights from indianapolis to charlotte on monday
+atis_airfare	 i'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning
+atis_flight	 i'd like a morning flight from newark to los angeles
+atis_airfare	 list the cheapest fare from charlotte to las vegas
+atis_airfare	How much first class airfare is available a day in advance from Chicago or Chicago, Mississippi?
+atis_airline	What are the different airlines flying from Las Vegas to New York City?
+atis_airfare	How do I get a flight from Washington DC to Boston?
+atis_flight	 show flights from burbank to st. louis on monday
+atis_flight	 which flights travel from indianapolis to san diego on april fifth
+atis_ground_service	What is the best taxi service between Millaukee airport and downtown milwaukee?
+atis_flight	 i need to fly from st. louis to milwaukee on wednesday afternoon
+atis_flight	 show me nonstop flights from montreal to orlando
+atis_flight	 can i get the shortest flight from milwaukee to orlando
+atis_flight	 i would like flights from salt lake city to cincinnati
+atis_flight	 after 12 pm on wednesday april sixth i would like to fly from long beach to columbus
+atis_abbreviation	What is a fare code?
+atis_abbreviation	What does fare code bh mean in short form?
+atis_airline	 which airline is us
+atis_airfare	How much in advance is the best plan for a olympic round trip flight from Detroit to St. Petersburg?
+atis_flight	 what is the shortest flight from milwaukee to long beach
+atis_flight	 give me the flights from pittsburgh to los angeles thursday evening
+atis_airline	Which airlines fly from/to Denver?
+atis_flight	 dallas to houston after 1201 am
+atis_airline	What is hp?
+atis_abbreviation	 what is cvg
+atis_airline	 what airline is as
+atis_flight	 list flights from washington dc to pittsburgh leaving after 1800
+atis_flight	 los angeles to pittsburgh afternoon on monday
+atis_flight	 list the flights from denver to cincinnati on june sixth after 4 pm
+atis_ground_service	Which is the best ground transportation from lga to new york city?
+atis_flight	 is there an american airlines flight from houston to newark on june tenth after 6 pm
+atis_flight	 which flights leave on monday from montreal and arrive in chicago in the morning
+atis_flight	 list american airlines flights from houston to milwaukee departing friday pm
+atis_flight	 are there any flights between dallas and phoenix using a dc10 aircraft
+atis_flight	 chicago to seattle saturday morning
+atis_airline	Which airline is HP?
+atis_flight	 list philadelphia to san francisco flights with stopovers in dallas
+atis_ground_service	If they want to transfer you to Wisconsin by ground transportation please show this detail by email in advance.
+atis_abbreviation	 what does q mean
+atis_abbreviation	What does a fare code bh mean?
+atis_abbreviation	"What is ""fares code""?"
+atis_abbreviation	What does fares code mean?
+atis_ground_service	 show me ground transportation in phoenix
+atis_abbreviation	 what does fare code f mean
+atis_ground_service	What is the transportation from Texas Fort Worth Airport to downtown dallas?
+atis_abbreviation	What do fare codes and promo codes mean?
+atis_flight	 i would like a connecting flight from dallas to san francisco leaving after 4 o'clock
+atis_abbreviation	What is a 73s?
+atis_flight	 i want to fly from nashville to seattle and i want the cheapest fare round trip
+atis_airline	 what airlines serve denver
+atis_abbreviation	 what are restrictions ap 57
+atis_flight	 show me the cheapest one way flights from orlando to montreal
+atis_flight	 get first flight from oakland to salt lake city on thursday
+atis_airline	What airlines off from love field between 6 and 10 am on June 6th?
+atis_airfare	How much does it cost to buy a First Class ticket from Detroit to Las Vegas?
+atis_airfare	How much does it cost to fly on two-way (UTWY) flights from Columbus to Milwaukee?
+atis_airline	What airline is as per what is?
+atis_airfare	 show me round trip fares from toronto to detroit on delta northwest us air and united airlines
+atis_airfare	How much does a Saturday fares from Washington to Montreal — or at least cheap saturday trips — run?
+atis_flight	 what is the earliest arriving flight from houston to orlando
+atis_flight	 list all flights from memphis to miami
+atis_airline	 list airlines that fly from seattle to salt lake city
+atis_airline	Which airlines fly from Tampa to San Francisco?
+atis_flight	 which flights leave on wednesday april thirteenth from indianapolis and arrive in montreal in the morning
+atis_flight	 list wednesday night flights from oakland to salt lake city
+atis_airfare	What are the possible fares to pick up from Cleveland to Miami for a one-day flight next week?
+atis_abbreviation	What is tpa and what are its functions?
+atis_airline	Which is Kwi-Mankas Airlines Limited in India?
+atis_flight	 show me nonstop flights from toronto to st. petersburg
+atis_airfare	What is the most expensive one way fare between Detroit and Westchester?
+atis_flight	 i want a flight round trip from memphis to seattle
+atis_flight	 list early evening flights from tampa to cincinnati
+atis_flight	 i would like to fly from orlando to kansas city
+atis_flight	 get flights between st. petersburg and charlotte
+atis_flight	 list last wednesday flight from oakland to salt lake city
+atis_abbreviation	What does fare code mean?
+atis_ground_service	Is there any car rental service in Washington DC?
+atis_airfare	How will the plane fare from Kolkata to Salt Lake City be?
+atis_flight	 give me the saturday morning flights on continental that have meals from chicago to minneapolis
+atis_airline	 list the airlines with flights to or from denver
+atis_flight	 show me the first class and coach flights between jfk and orlando
+atis_airfare	How much difference does it make in the number of days from San Francisco to Houston for the average trip of 2 years?
+atis_airfare	What is the airfare for a round trip first class ticket from Detroit to St. Petersburg?
+atis_flight	 on tuesday are the flights from san diego california to indianapolis indiana i would like the flight to be in the afternoon
+atis_airline	 what airline is dl
+atis_airfare	 what is the fare for a first class round trip ticket from detroit to st. petersburg
+atis_airline	Which airline is hp.com?
+atis_airline	What is airline wn?
+atis_flight	 list flights from ontario california to orlando florida
+atis_ground_service	What's the ground transportation in Westchester County?
+atis_flight	 i need a flight from tampa to milwaukee
+atis_flight	 list flights from phoenix to las vegas
+atis_ground_service	Is there any ground transportation available at the Phoenix airport?
+atis_ground_service	Where are taxis available in Toronto?
+atis_abbreviation	 what does fare code y mean
+atis_flight	 i need a flight from toronto to newark one way leaving wednesday evening or thursday morning
+atis_ground_service	In Phoenix, show me ground transportation. How far for me is Phoenix?
+atis_flight	 i need a flight that goes from boston to orlando
+atis_flight	 show flights from burbank to milwaukee on monday
+atis_ground_service	please show ground transportation to milwaukee. Please get back out of Illinois.
+atis_airfare	 what is the lowest fare for a flight from washington dc to boston
+atis_airfare	 cheapest one way fare from indianapolis to orlando on december twenty seventh
+atis_flight	 please list the flights from newark to los angeles
+atis_flight	 find flight from phoenix to detroit on monday
+atis_flight	 list the flights from denver to baltimore arriving on july first
+atis_airfare	 give me the fares from miami to cleveland next sunday
+atis_airfare	 what is the lowest fare from washington dc to montreal
+atis_flight	 list the flights from memphis to cleveland
+atis_abbreviation	What is fare code h and how does it work?
+atis_abbreviation	What does not sa mean?
+atis_abbreviation	 what does ap 20 mean
+atis_flight	 please list all the flights from kansas city to chicago on june sixteenth
+atis_flight	 list flights from cincinnati to tampa before noon
+atis_airfare	 is there a fare from pittsburgh to cleveland under 200 dollars
+atis_flight	 on friday morning i would like to fly from toronto to montreal
+atis_flight	 which flights go from cleveland to indianapolis on april fifth
+atis_flight	 minneapolis to pittsburgh flight
+atis_airfare	I need a ticket from nashville to seattle. can you please contact me?
+atis_flight	 i'd like a round trip flight from kansas city to chicago on wednesday may twenty sixth arriving at 7 pm
+atis_flight	 show me flight us 1207 from indianapolis to charlotte on monday and flight us 1500 from charlotte to minneapolis on monday and flight twa 639 from minneapolis to indianapolis
+atis_flight	 show me flights from milwaukee to orlando
+atis_airfare	If you're flying to montreal on Saturday, get a Saturday fares from Washington, DC with American Airways.
+atis_ground_service	Underground transport to Las Vegas on a one way basis?
+atis_abbreviation	What does the restriction ap58 mean?
+atis_ground_service	 what's the ground transportation in westchester county
+atis_flight	 kansas city to atlanta monday morning flights
+atis_abbreviation	 what is a d9s
+atis_abbreviation	What does fare code mean?
+atis_flight	 please list all the flights from chicago to kansas city on june seventeenth
+atis_flight	 give me the flights from phoenix to milwaukee on american airlines
+atis_airline	 what airlines off from love field between 6 and 10 am on june sixth
+atis_airfare	 what is the lowest fare from toronto to washington dc
+atis_flight	 i want a flight from memphis to seattle that arrives no later than 3 pm
+atis_flight	 show me the flights between houston and orlando
+atis_airfare	 cheapest fare round trip from indianapolis to orlando on december twenty seventh
+atis_flight	 which flights leave april twelfth from indianapolis and arrive in montreal around 10 pm
+atis_airfare	What are the fares from washington to Montréal?
+atis_flight	 phoenix to milwaukee on wednesday
+atis_flight	 list the flights from indianapolis to memphis that leave before noon
+atis_flight	 which flights arrive in burbank from las vegas on saturday april twenty third in the afternoon
+atis_flight	 show me the morning flights from memphis to new york city
+atis_abbreviation	What is FAIRE CODE?
+atis_flight	 i'd like a flight from new york to los angeles on saturday morning on us air
+atis_airfare	What is the fare for a first class round trip ticket from Detroit to St. Petersburg?
+atis_airfare	What are the cheapest round trip plans from San Jose to Austin?
+atis_flight	 list all flights departing from seattle
+atis_ground_service	what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte?
+atis_airfare	What are the airfares for round trip flights from Cleveland to Florida next week?
+atis_flight	 show me all the flights from kansas city to st. paul
+atis_flight	 list the alaska airlines flights arriving in burbank
+atis_airfare	cheapest round trip fare from or indianapolis to orlando on december twenty fifth. cheapest round trip fare from or indianapolis to orlando on december twenty fifth.
+atis_ground_service	We need a car hire in tampa, Florida. Where can I rent one?
+atis_flight	 give me the flights from milwaukee to phoenix on saturday or sunday on american airlines
+atis_airfare	How do I get a flight from Nashville to seattle?
+atis_abbreviation	What is CVC G?
+atis_ground_service	Which airport offers the most airport transfer and ground transport?
+atis_abbreviation	What class is fare code?
+atis_abbreviation	 what does fare code h mean
+atis_flight	 which flights go from new york to miami and back
+atis_flight	 could i have flight information on flights from pittsburgh to phoenix please
+atis_ground_service	Show me ground transportation in phoenix phoenix. phoenix phoenix...
+atis_abbreviation	 what is fare code m
+atis_airline	 what airlines fly between detroit and westchester county
+atis_flight	 i would like a flight on tuesday which leaves from san diego to indianapolis indiana and that leaves in the afternoon
+atis_flight	 list flights from houston to milwaukee
+atis_flight	 i need to fly from denver to westchester county on june seventh after 3 pm
+atis_flight	 list flights from oakland to salt lake city leaving after midnight thursday
+atis_flight	 show me one way flights from milwaukee to orlando after 6 pm on wednesday
+atis_flight	 can you find me another flight from cincinnati to new york on saturday before 6 pm
+atis_airfare	 what are the lowest fares from washington dc to salt lake city
+atis_flight	 show me all nonstop flights from st. petersburg to charlotte
+atis_airfare	What are the lowest fares from DC to Salt Lake City?
+atis_flight	 list flights from indianapolis to memphis with fares on monday
+atis_airfare	Which airline fares from washington DC to montreal are available?
+atis_flight	 i would like to book a round trip flight from kansas city to chicago
+atis_airline	What airline off from love field between 6 and 10 am on June sixth will resume.
+atis_airfare	What is the cheaper fare to visit washington DC?
+atis_airfare	What is the best route i can take from india indianapolis to memphis?
+atis_flight	 i need a flight from charlotte to miami
+atis_abbreviation	What is Fare Code H and what are its meanings?
+atis_ground_service	Show me ground transportation in Fort Worth.
+atis_flight	 list flights from toronto to washington dc
+atis_abbreviation	What do fare codes for airlines mean in this country?
+atis_airfare	get saturday fares from m hr to m o j st to boston. saturday fares from m o s u s c o n u s a m o b c. (do tw) get friday fares from washington to m o c st with high value fares?
+atis_flight	 list flights from washington dc to pittsburgh
+atis_flight	 which flights are leaving atlanta and arriving in st. louis close to 230 pm on tuesday
+atis_airfare	What is the cheapest fare to travel from Washington to Montreal?
+atis_flight	 show me the first class and coach flights from kennedy airport to miami
+atis_flight	 list american airlines flights from san jose to dallas friday afternoon
+atis_ground_service	What are the modes of transportation between DCAL and washington?
+atis_abbreviation	 what is meal code sb
+atis_flight	 tell me again the morning flights on american airlines from philadelphia to dallas
+atis_flight	 on april first i need a flight going from phoenix to san diego
+atis_flight	 show flights saturday evening from st. louis to burbank
+atis_abbreviation	What's fare code bh mean?
+atis_ground_service	List of airports in Portland, Oregon, USA.
+atis_airfare	 show me the cheapest round trip coach fare from las vegas to detroit
+atis_flight	 show me all the flights from las vegas to new york city
+atis_flight	 show me all flights from seattle to boston with stopovers in minneapolis
+atis_flight	 i'd like to fly from miami to chicago on american airlines
+atis_flight	 show flights tuesday evening from milwaukee to st. louis
+atis_flight	 now show me all round trip flights from burbank to seattle that arrive before 7 pm in seattle
+atis_flight	 i would like a flight leaving san francisco for san diego
+atis_flight	 what are the flights from tampa to milwaukee
+atis_airline	 what airlines fly between washington dc and columbus ohio
+atis_flight	 list all flights arriving or leaving denver between 8 and 9 pm
+atis_abbreviation	What is meal code SB?
+atis_flight	 show me the flights in from minneapolis to indianapolis on tuesday afternoon
+atis_abbreviation	 what is mci
+atis_abbreviation	What do fare codes mean?
+atis_abbreviation	 what does fare code bh mean
+atis_airline	 what airline is us
+atis_flight	 show me first class flights from new york to miami round trip
+atis_airline	Which airline is US?
+atis_airline	Which is HP (Hyperlink)? What airline is HP?
+atis_flight	 i need flight information for a flight departing from indianapolis to cleveland departing tuesday at noon
+atis_flight	 i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm
+atis_ground_service	Is there any ground transportation available at indianapolis airport?
+atis_airfare	what is the cheapest fare from indianapolis to orlando on december 25th?
+atis_airfare	What is the lowest fare from BWI to Salt Lake City?
+atis_flight	 minneapolis to pittsburgh first class flight
+atis_airfare	 show me the cheapest round trip coach fare on twa from las vegas to detroit
+atis_ground_service	What is available in Denver for ground transportation?
+atis_flight	 show me all flights from san jose to phoenix
+atis_abbreviation	What is the purpose of mci?
+atis_flight	 give me flights from seattle to chicago that have meals on continental
+atis_flight	 new york to las vegas on sunday afternoon
+atis_flight	 list flights from new york to la
+atis_airline	Which airlines currently provide the most flight services to Verona?
+atis_airline	What is airline wn cvs?
+atis_flight	 please list all the flights from dallas to san francisco
+atis_flight	 give me the saturday morning flights with meals from chicago to minneapolis
+atis_flight	 i'd like an evening flight from newark to los angeles
+atis_flight	 does the airport at burbank have a flight that comes in from kansas city
+atis_ground_service	I need to rent a car from a private seller in Tampa. One for the same amount. I need a car. We will be happy to accept payment.
+atis_flight	 show me all the flights on america west and twa from las vegas to jfk on a friday
+atis_airfare	What is the cheapest fare to travel from DC to the USA?
+atis_abbreviation	What do we mean by m?
+atis_airfare	Show me the cheapest round trip tickets from houston to Boston. You can stop at any of the many places available.
+atis_flight	 list flights from atlanta to toronto friday afternoon
+atis_flight	 please list the flights from charlotte to newark
+atis_flight	 get last flight from oakland to salt lake city on wednesday or first flight from oakland to salt lake city on thursday
+atis_flight	 show me all the flights from minneapolis to indianapolis on tuesday that leave after 2 pm
+atis_flight	 show me the delta flights from tampa to san francisco
+atis_flight	 new york city to las vegas and memphis to las vegas on sunday
+atis_abbreviation	What does HP stand for?
+atis_airline	 what is airline wn
+atis_airline	 which different airlines go from las vegas to new york city
+atis_airfare	 what are the fares for all flights between washington and columbus
+atis_airfare	How do you travel from Washington D.C to Toronto?
+atis_flight	 flights from san diego to seattle
+atis_abbreviation	What does HP stand for?
+atis_airline	What is America Airlines?
+atis_flight	 list flights before 9 am from cincinnati to tampa
+atis_flight	 which flights leave chicago next tuesday and arrive in detroit around 6 pm
+atis_flight	 list flights from milwaukee to washington dc before 1200
+atis_ground_service	What is the transportation from nashville airport?
+atis_flight	 what flights are available from indianapolis to san diego on april twenty first in the late afternoon
+atis_abbreviation	What do Fare codes mean?
+atis_abbreviation	What is Phl?
+atis_flight	 are there any flights from long beach to columbus on wednesday april sixth
+atis_ground_service	What are the best places to rent a car in Milwaukee?
+atis_flight	 i would like a flight from toronto to st. louis
+atis_flight	 i need to get from cincinnati to denver on june sixth by 6 pm
+atis_flight	 i need the flights from washington to montreal on a saturday
+atis_flight	 nashville to cleveland sunday before 9
+atis_airline	What airlines are departing from Baltimore?
+atis_airline	What are some airlines that provide flight services in samsung?
+atis_airfare	List fares from boston to washington dc. The best way to get from this is to take a ride from DC airport.
+atis_ground_service	 does tacoma airport offer transportation from the airport to the downtown area
+atis_flight	 list the flights from cincinnati to westchester county on june seventh
+atis_flight	 i want to go from boston to washington on a saturday
+atis_flight	 list all of the daily flights arriving in denver from 8 to 9 pm
+atis_abbreviation	What is Q, and what does it mean?
+atis_flight	 list flights from seattle to salt lake city on delta be1
+atis_flight	 can i get a flight today from san francisco to detroit michigan
+atis_flight	 what are the flights from tacoma to san jose
+atis_ground_service	I need to return in 2019 to New York city by ground transportation. Please specify ground transportation from ewr into nyc.
+atis_ground_service	What is the ground transportation between the charlotte airport charlotte airport and downtown charlotte?
+atis_flight	 list flights from kansas city to denver
+atis_flight	 get last flight from oakland to salt lake city on wednesday
+atis_ground_service	What is the variety of ground transportation in Denver, Colorado?
+atis_airline	What airlines fly between columbus, Ohio and washington dc?
+atis_ground_service	What is the best way to obtain international air tickets from Chicago or LA guardia to New York City?
+atis_flight	 what are the flights between dca and milwaukee
+atis_ground_service	Which type of ground transportation is available in Denver?
+atis_flight	 please list flights from san francisco to charlotte
+atis_flight	 show flights from burbank to milwaukee for today
+atis_ground_service	 is ground transportation available in st. louis
+atis_flight	 please list the flights from memphis to new york city on a monday night
+atis_ground_service	How does there is ground transportation in Baltimore?
+atis_flight	 list flights from washington dc to boston
+atis_flight	 what's the cheapest flight tomorrow from milwaukee to denver
+atis_flight	 find flight from san diego to phoenix on monday am
+atis_airline	 what airlines are departing from baltimore
+atis_ground_service	Is ground transportation available in St. Louis?
+atis_flight	 show me northwest flight 608 from kansas city to st. paul
+atis_airfare	What are the fares for a trip from Washington DC to Boston (via downtown)?
+atis_flight	 give me the flights from phoenix to milwaukee
+atis_flight	 i would like a flight from toronto to detroit
+atis_airline	 what airline is as
+atis_flight	 what are the flights between washington dc and columbus ohio
+atis_airline	What airline is US Airlines?
+atis_abbreviation	What does Q mean?
+atis_abbreviation	"What does ""Q"" really mean?"
+atis_abbreviation	What is 73s?
+atis_ground_service	 list ground transportation in baltimore
+atis_ground_service	How do I travel by the airport in Wisconsin on foot?
+atis_ground_service	What type of ground transportation is there at Las Vegas airport?
+atis_ground_service	What is the best ground transportation service provider in Baltimore?
+atis_abbreviation	What is a Phl?
+atis_ground_service	Is there ground transportation from the memphis airport into town when I arrive at 842 in the morning?
+atis_ground_service	Ground transportation for Las Vegas.
+atis_abbreviation	What is D9S?
+atis_flight	 please find flights available from kansas city to newark
+atis_ground_service	 what ground transportation is available between milwaukee airport and downtown milwaukee
+atis_flight	 list flights from ontario california to orlando
+atis_flight	 i'd like to fly from cleveland to dallas
+atis_airline	What airline is us or what airlines are us?
+atis_airfare	What is the airfare for a round trip first class ticket from detroit to San Jose?
+atis_abbreviation	 what class is fare code q
+atis_airline	Which airline is Kwik.?
+atis_flight	 what are the flights from milwaukee to seattle
+atis_airfare	 list coach round trip airfare from detroit to st. petersburg
+atis_airfare	 what is the least expensive fare from boston to salt lake city
+atis_ground_service	What's ground transportation in denver?
+atis_flight	 list flights from oakland to salt lake city before 6 am thursday morning
+atis_airfare	Cheapest fare from Chicago to Orlando on the twenty seventh of december. A roundtrip ticket is $10 with extra indianapolis and extra miles with extra mile!
+atis_flight	 list flights from las vegas to phoenix
+atis_airfare	 show me the cheapest one way fare from san francisco to houston on february twenty eighth 1994
+atis_ground_service	Is there ground transportation from LA to New York City for people travelling with their luggage?
+atis_flight	 kansas city to las vegas economy
+atis_airline	is there a dependable airline that services Burbank to Milwaukee?
+atis_flight	 which flights depart from tampa in the early evening and arrive in cincinnati
+atis_flight	 cleveland to miami on wednesday arriving before 4 pm
+atis_ground_service	Is there any ground transportation (lga) from Mumbai to New York City?
+atis_flight	 list the flights from dallas to baltimore arriving july first
+atis_flight	 get flights from toronto to milwaukee
+atis_flight	 show me the cheapest first class round trip from new york to miami
+atis_airline	What airlines are ad?
+atis_flight	 show delta airlines flights from boston to salt lake
+atis_airline	Which airline is american?
+atis_flight	 i need a nonstop flight from miami to toronto
+atis_ground_service	 is there ground transportation available at the indianapolis airport
+atis_flight	 how about from dc to oakland on wednesday morning
+atis_ground_service	What ground transportation is available between Pittsburgh airport and downtown pittsburgh?
+atis_flight	 list the flights from montreal to philly before 9 am
+atis_flight	 show flights from denver to houston
+atis_flight	 what are the nonstop flights from cincinnati to charlotte leaving after noon and arriving before 7 pm
+atis_ground_service	What are the options for transportation between the pittsburgh airport and downtown pittsburgh?
+atis_flight	 show flights from kansas city to orlando
+atis_flight	 show me flights from montreal to orlando
+atis_airfare	What is the fare for a second class round trip ticket from Seattle to St. Petersburg?
+atis_airline	What airline is DSL?
+atis_airline	What is aa?
+atis_flight	 show me the cheapest one way flight from san francisco to houston
+atis_ground_service	 show me ground transportation in fort worth
+atis_airfare	What is the lowest fare from BWI to salt lake city?
+atis_flight	 on next wednesday flight from kansas city to chicago should arrive in chicago around 7 pm return flight on thursday
+atis_flight	 find a flight from memphis to tacoma dinner
+atis_airfare	Show me the cheapest round trip fares from San Diego to Houston.
+atis_flight	 i need a flight from san diego to washington dc
+atis_flight	 i need a flight from milwaukee to indianapolis leaving monday before 9 am
+atis_ground_service	Is there ground transportation available at the denver airport? If so, which one would you recommend?
+atis_airfare	 i need a ticket from nashville to seattle
+atis_flight	 i need a flight from phoenix to atlanta
+atis_flight	 show me delta flight 486
+atis_ground_service	What are the connections between New York City and LGA airport?
+atis_flight	 list flights from washington dc to toronto
+atis_flight	 list the flights from westchester county to cincinnati on june seventh leaving after 5 pm
+atis_flight	 show me the flights from houston to orlando
+atis_abbreviation	What does fare code mean?
+atis_airline	What airlines fly into Denver for vacation?
+atis_flight	 flight on american from miami to chicago arrive in chicago about 5 pm
+atis_flight	 list the alaska airlines flights a departing from burbank
+atis_flight	 i need a flight from salt lake to newark airport that arrives on saturday before 6 pm
+atis_airfare	What are the fares for a 90 minute flight between Washington and Columbus?
+atis_flight	 show me flights from fort worth to san jose
+atis_ground_service	How do I get to DC on foot using D-Day flight?
+atis_airline	Which airline is in Canada?
+atis_flight	 please list all flights from new york to miami any any type of class
+atis_abbreviation	What class is fare code q?
+atis_airfare	List airfares for first class round trip from detroit to St. Petersburg. list prices for the same.
+atis_airline	 which airline is us
+atis_flight	 i would like a flight that leaves on sunday from montreal quebec to san diego california
+atis_airfare	What is the airfare for a first class ticket from detroit to st. petersburg?
+atis_airfare	What is the most expensive one way fare between detroit and westchester county?
+atis_flight	 list flights from baltimore to san francisco on friday
+atis_flight	 what is the shortest flight from milwaukee to san diego
+atis_flight	 what is the latest daily flight between oakland and salt lake city
+atis_flight	 yes i'd like to find a flight from memphis to tacoma stopping in los angeles
+atis_flight	 what flights leave from cincinnati in the morning and arrive in tampa
+atis_airfare	If I am planning to fly from Tacoma to San Jose for three days first april first, I need a ticket from Seattle to San jose departing before 7 am. As for cost it means fare and the stop will be at 8 am.
+atis_abbreviation	 what is fare code f
+atis_flight	 i would like to fly from san diego to seattle
+atis_flight	 list all alaska airlines flights
+atis_airline	I would like to have a nice airline that flies across the country including stops in San Francisco and Seattle. Is there an airline that flies in St. Louis as well?
+atis_airline	 what airline is dl
+atis_ground_service	Is there ground transportation available at The Phoenix airport?
+atis_flight	 what flights travel from las vegas to los angeles
+atis_airfare	How much are coach flights from pittsburgh to atlanta?
+atis_airline	What are the airlines that fly from Salt Lake City to seattle?
+atis_flight	 give me the flights from memphis to las vegas nonstop
+atis_airfare	What are the best fares from canada to washington, DC from the city?
+atis_abbreviation	 what is phl
+atis_abbreviation	What is a Fare Code?
+atis_flight	 list flights from san jose to dallas on friday
+atis_flight	 i would like a flight from san diego to las vegas
+atis_flight	 which flights travel from tacoma to san jose
+atis_abbreviation	 what does fare code qo mean
+atis_flight	 i would like flights from las vegas to san francisco
+atis_airfare	What is the cheapest roundtrip fare from Chicago to Orlando in December?
+atis_airfare	Which flights will be charged for a single day in September from Ottawa?
+atis_flight	 give me the flights from chicago to seattle saturday morning that have meals
+atis_airline	What is the airline?
+atis_flight	 list flights from houston to phoenix
+atis_airfare	What is the lowest fare to fly from Washington DC to Boston?
+atis_airfare	Can anybody say here a fare of 200 dollars to Cleveland from pittsburgh?
+atis_airline	Which airline is important in aviation?
+atis_ground_service	 i'll need to rent a car in washington dc
+atis_airfare	 get saturday fares from washington to montreal
+atis_flight	 show me all round trip flights from miami to new york nonstop
+atis_abbreviation	What does the abbreviation us stand for?
+atis_airfare	Show me round trip fares from toronto to detroit on delta northwest us air and united airlines.
+atis_abbreviation	 what does the restriction ap58 mean
+atis_flight	 give me the flights from new york city to nashville leaving after 5 pm on wednesday
+atis_airfare	How much is the first class airfare from Detroit to St. Petersburg for a round trip?
+atis_airfare	How much should I spend at a two-way hotel in Chicago for an economy class ticket. Can I afford to spend it from there?
+atis_airfare	Bus route list fares from Washington DC to Montreal.
+atis_airfare	cheapest fare round trip from indianapolis to orlando on december twenty seven. cheapest fare round trip, orlando on december twenty seventh.
+atis_flight	 list the flights from westchester county to denver on june seventh
+atis_flight	 please list flights from st. louis to st. paul which depart after 10 am thursday morning
+atis_flight	 i need flight information from milwaukee to tampa
+atis_ground_service	 is there ground transportation from lga into new york city
+atis_flight	 can i have a morning flight from baltimore to newark please
+atis_flight	 please give me the flights from chicago to kansas city on june seventeenth
+atis_flight	 which flights leave chicago on april twelfth and arrive in indianapolis in the morning
+atis_flight	 show me the nonstop flights from toronto to st. petersburg
+atis_abbreviation	What is fare code in India?
+atis_flight	 which flights depart from philadelphia and arrive in atlanta
+atis_airfare	Show me round trip fares from Toronto to Detroit on delta northwest us air and united airlines.
+atis_airfare	From Washington to Boston, get fares from nyc to london and other locations.
+atis_airfare	Where can I get cheapest flight ticket from Dallas to Los Angeles from LV to Detroit?
+atis_flight	 please find a flight from orlando to kansas city
+atis_flight	 please find all the flights from cincinnati to any airport in the new york city area that arrive next saturday before 6 pm
+atis_abbreviation	 what does fare code bh mean
+atis_airline	What airline is HP?
+atis_abbreviation	What does fare code bh mean?
+atis_flight	 list the flights from denver to cincinnati on june eighth
+atis_flight	 list flights from minneapolis to pittsburgh on friday
+atis_flight	 please list the flights from cincinnati to burbank on american airlines
+atis_flight	 what flights go from dallas to phoenix
+atis_ground_service	is there ground transportation from the memphis airport into town when i arrive at 842 in the morning?
+atis_flight	 list flights from oakland to salt lake city leaving after 1700 wednesday
+atis_flight	 give me a combination of continental flights from chicago to seattle that have meals early saturday morning
+atis_flight	 which flights leave detroit and arrive at st. petersburg around 9 am
+atis_abbreviation	What is the MCI (MNCI)?
+atis_airline	What airlines fly between Columbus, Hawai’i and Washington DC?
+atis_flight	 list the tower air flights on mondays
+atis_flight	 what flights depart from baltimore
+atis_airfare	 get fares from washington to montreal
+atis_flight	 what is the earliest arriving flight between boston and washington dc
+atis_airline	 what airline is as as in sam
+atis_abbreviation	What does a fare code mean?
+atis_abbreviation	What does fare code actually mean?
+atis_airfare	What is the first class round trip airfare from India indianapolis to Memphis, Tennessee?
+atis_airfare	What are the cheapest route ticket fares from Houston to Boston?
+atis_abbreviation	What does US A mean?
+atis_flight	 give me the flights from phoenix to milwaukee on wednesday evening
+atis_airfare	What are the low fares between Washington DC and Salt Lake City?
+atis_flight	 which flights are leaving from kansas city to atlanta early monday morning
+atis_airline	I want a flight between San Francisco and Detroit from Houston to Detroit. I am looking for flights between San Francisco and Detroit. can u tell me some details about a flight between Dallas and Detroit?
+atis_airline	What airlines fly between Toronto and San Diego?
+atis_flight	 the flights from ontario to westchester that stop in chicago
+atis_flight	 give me the flights from new york to las vegas nonstop
+atis_flight	 please give me the flights from nashville to houston nonstop with dinner served
+atis_ground_service	 what's the ground transportation in denver
+atis_airline	Which airlines fly to Salt Lake City from Seattle?
+atis_flight	 i want to fly from memphis to seattle round trip with the cheapest fare
+atis_airfare	What is the lowest fare from Toronto to Washington DC?
+atis_ground_service	Is there ground transportation available at the Salt Lake City airport?
+atis_flight	 list flights from dallas to houston
+atis_airfare	What's the cheapest one-way fare from Indianapolis to Orlando on December twenty seven?
+atis_flight	 list flights from tampa to cincinnati after 3 pm
+atis_flight	 how many flights does alaska airlines have to burbank
+atis_flight	 kansas city to las vegas economy
+atis_flight	 what's the earliest arriving flight between boston and washington dc
+atis_flight	 i need flight information for flights departing from cleveland going back to milwaukee wednesday after 5 pm
+atis_flight	 what are the nonstop flights between houston and memphis
+atis_abbreviation	What does not SA mean?
+atis_airline	Which airline is usa?
+atis_flight	 which flights on northwest airline leave detroit and arrive at st. petersburg
+atis_ground_service	 what ground transportation is available between pittsburgh airport and downtown pittsburgh
+atis_flight	 new york to las vegas sunday afternoon
+atis_ground_service	List of ground transportation in st. Helena, gulf coast, and surrounding areas.
+atis_ground_service	I need to rent a car in washington dc. it is cheaper than renting a car in San Diego, so when to drive?
+atis_flight	 show me round trip flights from montreal to orlando
+atis_airline	Which airlines fly from San Mateo to Fort Myers?
+atis_flight	 list all tower air flights with meals
+atis_flight	 how about a flight leaving tuesday night from st. louis to burbank
+atis_abbreviation	What does “M” mean?
+atis_flight	 please list the flights from los angeles to charlotte
+atis_flight	 new york city to las vegas and memphis to las vegas on sunday
+atis_airline	 what airline is hp
+atis_flight	 which flights travel from kansas city to los angeles
+atis_abbreviation	What does fare code mean?
+atis_flight	 show me weekday flights from milwaukee to orlando one way
+atis_flight	 give me the saturday morning flights from chicago to st. paul on continental that have meals
+atis_flight	 show me one way flights from indianapolis to memphis before 10 am on any day
+atis_flight	 on wednesday night i would like a flight from charlotte to newark
+atis_flight	 list flights from chicago to san diego
+atis_flight	 list all flights from cleveland to nashville
+atis_airline	Which airline is usa?
+atis_airline	What is a general aviation airline and what are its operations?
+atis_flight	 and from milwaukee to atlanta before 10 am daily
+atis_flight	 list the flights from pittsburgh to baltimore arriving on july first
+atis_flight	 what is the earliest arriving flight from houston to orlando
+atis_flight	 los angeles to pittsburgh afternoon tuesday
+atis_flight	 please find a flight from miami florida to las vegas nevada arriving before 4 o'clock pm
+atis_airfare	What are the fares of all flights from Washington to Cincinnati?
+atis_flight	 list flights from salt lake city utah to phoenix arizona monday
+atis_abbreviation	What are the restrictions of P.R.A. 57?
+atis_flight	 columbus to chicago one way before 10 am
+atis_abbreviation	What do we stand for with the abbreviation us?
+atis_airline	Which airline is as follows?
+atis_flight	 find american flight from newark to nashville around 630 pm
+atis_airfare	How does it cover the price of a hotel for a week from Las Vegas to Detroit?
+atis_flight	 what flights go from phoenix to salt lake city
+atis_flight	 i would like to leave this afternoon on an american flight from cincinnati to burbank
+atis_airfare	What is the cheapest fare of a flight from Washington DC to Boston?
+atis_airfare	What is the most expensive one way fare between detroit and westchester county, Michigan?
+atis_flight	 list flights from milwaukee to san jose on wednesday
+atis_airfare	 cheapest round trip fare from or indianapolis to orlando on december twenty fifth
+atis_abbreviation	What is fare code q?
+atis_airline	What airline is HP?
+atis_airline	 what airline is us
+atis_airfare	Show me the cheapest one way fare from san francisco to Houston on february twenty eighth 1994 1994?
+atis_flight	 i would like flights from ontario to tacoma
+atis_flight	 indianapolis to orlando december twenty seventh
+atis_flight	 list flights from chicago to kansas city in the morning
+atis_flight	 next wednesday i would like to leave kansas city on a trip to chicago which arrives in chicago around 7 pm
+atis_flight	 list flights from houston to denver
+atis_flight	 find me a flight that flies from memphis to tacoma
+atis_ground_service	What is the ground transportation between the charlotte airport charlotte airport and downtown charlotte?
+atis_ground_service	What is the best way to get from LA guardia airport to New York?
+atis_airfare	What are the fares for flights between Washington D.C. and Columbus?
+atis_flight	 i need a flight from memphis to las vegas
+atis_flight	 las vegas to baltimore economy
+atis_flight	 list flights from newark to houston
+atis_airline	Which airline is the United States?
+atis_flight	 give me the flights from los angeles to pittsburgh on tuesday
+atis_ground_service	What is the best way to get a ride to the airport from nashville?
+atis_flight	 i need a flight from toronto to st. louis
+atis_ground_service	Show me ground transportation in Fort Worth, TX.
+atis_airline	What airlines fly to San Diego on short plane journeys from Toronto?
+atis_airfare	get the Friday fare from washington to toronto from $319 to $492.75. get the Saturday fare from toronto to new York for just $2.45. Get the Saturday fare on a saturday fly.
+atis_ground_service	 is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning
+atis_airline	Which airline is Dlc/DHL?
+atis_ground_service	What is the best subway service to New York from La Guardia airport?
+atis_flight	 i would like a flight on friday morning from toronto to montreal
+atis_flight	 what are the flights between cincinnati and san jose california which leave after 6 pm
+atis_flight	 i would like flight information from phoenix to denver
+atis_flight	 list flights from ontario california to salt lake city utah
+atis_airline	What airline is us?
+atis_flight	 what are the flights on sunday from montreal quebec to san diego california
+atis_airfare	cheapest flight to boston from washington DC (day)?
+atis_flight	 which flights depart from tampa and arrive in cincinnati in the evening
+atis_flight	 please find a flight from st. petersburg to miami on thursday
+atis_flight	 what's the cheapest round trip flight on twa from columbus to st. paul
+atis_flight	 i need information on flights from toronto to san diego
+atis_abbreviation	What are rules under ABP 57?
+atis_abbreviation	 what is tpa
+atis_flight	 i would like to fly from atlanta to san diego
+atis_airline	What are the different airlines that fly from Toronto to San Francisco?
+atis_airfare	 list fares from washington dc to boston
+atis_airfare	 i need a ticket from nashville tennessee to seattle
+atis_airfare	How much does it cost to fly from columbus to saint louis round trip?
+atis_flight	 kansas city to atlanta monday morning flights
